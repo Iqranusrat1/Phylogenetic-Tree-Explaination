@@ -1,0 +1,1 @@
+This phylogenetic tree shows that all six bacterial genes evolved from a single common ancestor, Escherichia coli. Differences in branch length reflect varying degrees of evolutionary change. MEA3147101.1 and MBK9139467.1 are closely related and share a recent common ancestor, while the remaining genes are more distantly related.
